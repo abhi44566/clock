@@ -1,0 +1,30 @@
+.box{
+   height: 350px;
+   width: 350px;
+   background-color: rgb(149, 169, 236);
+   position: absolute;
+   gap: 40px;
+   margin-left: 550px;
+   margin-top: 200px;
+   border-radius: 15px 5px 15px 5px ;
+}
+.box gol{
+    height: 120px;
+    width: 50px;
+    background-color: blue;
+    position: absolute;
+}
+
+
+/* @keyframes carMove{
+    0%{
+
+       left :40px;
+
+    }
+    100%{
+
+       left:100px;
+
+    }
+} */
